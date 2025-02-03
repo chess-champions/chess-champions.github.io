@@ -1,1 +1,0 @@
-const s=[2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014],E=["All","U20","U18","U16","U14","U12","U10","U08"],a=["Classical","Rapid","Blitz"],A=["Open","Women"],c=2024,n="All",U="Classical",o="Open";export{E as C,o as D,A as G,s as Y,a,c as b,n as c,U as d};
