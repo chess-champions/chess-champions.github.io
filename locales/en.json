@@ -1,0 +1,69 @@
+{
+  "name": "Ukrainian Chess Champions",
+  "title_template": "%s | Ukrainian Chess Champions",
+  "description": "Results of the top Ukrainian {{gender}} in the {{game}}{{category}} category for {{year}}",
+  "type": {
+    "0": "World Championship",
+    "1": "European Championship",
+    "2": "Ukrainian Championship"
+  },
+  "type_short": {
+    "0": "WC",
+    "1": "EC",
+    "2": "UC"
+  },
+  "category": {
+    "0": "",
+    "1": "Under 20",
+    "2": "Under 18",
+    "3": "Under 16",
+    "4": "Under 14",
+    "5": "Under 12",
+    "6": "Under 10",
+    "7": "Under 8"
+  },
+  "category_short": {
+    "0": "All",
+    "1": "U20",
+    "2": "U18",
+    "3": "U16",
+    "4": "U14",
+    "5": "U12",
+    "6": "U10",
+    "7": "U08"
+  },
+  "game": {
+    "0": "Classical Chess",
+    "1": "Rapid Chess",
+    "2": "Blitz Chess"
+  },
+  "game_short": {
+    "0": "Classical",
+    "1": "Rapid",
+    "2": "Blitz"
+  },
+  "gender": {
+    "0": {
+      "adult": "Players",
+      "junior": "Juniors"
+    },
+    "1": {
+      "adult": "Women",
+      "junior": "Girls"
+    }
+  },
+  "gender2": {
+    "0": {
+      "adult": "players",
+      "junior": "junior players"
+    },
+    "1": {
+      "adult": "women",
+      "junior": "girls"
+    }
+  },
+  "gender_short": {
+    "0": "Open",
+    "1": "Women"
+  }
+}

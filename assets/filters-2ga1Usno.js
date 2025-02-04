@@ -1,0 +1,1 @@
+import{l as s,m as a,n as E}from"./NavigationService-B-jzi7s8.js";const o=[2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014],t=[s.All,s.U20,s.U18,s.U16,s.U14,s.U12,s.U10,s.U08],A=[a.Classical,a.Rapid,a.Blitz],c=[E.Open,E.Women],U=2024,l=s.All,G=a.Classical,e=E.Open;export{t as C,e as D,A as G,o as Y,c as a,U as b,l as c,G as d};
