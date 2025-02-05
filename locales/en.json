@@ -1,7 +1,7 @@
 {
   "name": "Ukrainian Chess Champions",
   "title_template": "%s | Ukrainian Chess Champions",
-  "description": "Results of the top Ukrainian {{gender}} in the {{game}}{{category}} category for {{year}}",
+  "description": "Top results of Ukrainian {{gender}} in {{game}}{{category}} for {{year}}",
   "type": {
     "0": "World Championship",
     "1": "European Championship",
