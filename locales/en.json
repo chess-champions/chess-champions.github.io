@@ -1,18 +1,18 @@
 {
-  "name": "Ukrainian Chess Champions",
+  "site_name": "Ukrainian Chess Champions",
   "title_template": "%s | Ukrainian Chess Champions",
   "description": "Top results of Ukrainian {{gender}} in {{game}}{{category}} for {{year}}",
-  "type": {
+  "type_enum": {
     "0": "World Championship",
     "1": "European Championship",
     "2": "Ukrainian Championship"
   },
-  "type_short": {
+  "type_enum_short": {
     "0": "WC",
     "1": "EC",
     "2": "UC"
   },
-  "category": {
+  "category_enum": {
     "0": "",
     "1": "Under 20",
     "2": "Under 18",
@@ -22,7 +22,7 @@
     "6": "Under 10",
     "7": "Under 8"
   },
-  "category_short": {
+  "category_enum_short": {
     "0": "All",
     "1": "U20",
     "2": "U18",
@@ -32,17 +32,17 @@
     "6": "U10",
     "7": "U08"
   },
-  "game": {
+  "game_enum": {
     "0": "Classical Chess",
     "1": "Rapid Chess",
     "2": "Blitz Chess"
   },
-  "game_short": {
+  "game_enum_short": {
     "0": "Classical",
     "1": "Rapid",
     "2": "Blitz"
   },
-  "gender": {
+  "gender_enum": {
     "0": {
       "adult": "Players",
       "junior": "Juniors"
@@ -52,7 +52,7 @@
       "junior": "Girls"
     }
   },
-  "gender2": {
+  "gender_enum2": {
     "0": {
       "adult": "players",
       "junior": "junior players"
@@ -62,11 +62,11 @@
       "junior": "girls"
     }
   },
-  "gender_short": {
+  "gender_enum_short": {
     "0": "Open",
     "1": "Women"
   },
-  "federation": {
+  "federation_enum": {
     "1": "Kyiv",
     "2": "Autonomous Republic of Crimea",
     "3": "Vinnytsia Region",
@@ -94,7 +94,7 @@
     "25": "Chernivtsi Region",
     "26": "Cherkasy Region"
   },
-  "federation_short": {
+  "federation_enum_short": {
     "1": "KYI",
     "2": "ARC",
     "3": "VIN",
@@ -121,5 +121,13 @@
     "24": "CHN",
     "25": "CHO",
     "26": "CHK"
-  }
+  },
+  "fide": "FIDE",
+  "federation": "Federation",
+  "year_of_birth": "Year of Birth",
+  "gold": "Gold",
+  "silver": "Silver",
+  "bronze": "Bronze",
+  "total": "Total",
+  "years": "yrs."
 }
