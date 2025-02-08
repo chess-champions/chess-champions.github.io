@@ -1,7 +1,7 @@
 {
   "site_name": "Ukrainian Chess Champions",
   "title_template": "%s | Ukrainian Chess Champions",
-  "description": "Top results of Ukrainian {{gender}} in {{game}}{{category}} for {{year}}",
+  "description": "Top results of Ukrainian {{gender_category}} in {{game}} for {{year}}",
   "type_enum": {
     "0": "World Championship",
     "1": "European Championship",
@@ -11,16 +11,6 @@
     "0": "WC",
     "1": "EC",
     "2": "UC"
-  },
-  "category_enum": {
-    "0": "",
-    "1": "Under 20",
-    "2": "Under 18",
-    "3": "Under 16",
-    "4": "Under 14",
-    "5": "Under 12",
-    "6": "Under 10",
-    "7": "Under 8"
   },
   "category_enum_short": {
     "0": "All",
@@ -37,34 +27,63 @@
     "1": "Rapid Chess",
     "2": "Blitz Chess"
   },
+  "game_enum2": {
+    "0": "Classical Chess",
+    "1": "Rapid Chess",
+    "2": "Blitz Chess"
+  },
   "game_enum_short": {
     "0": "Classical",
     "1": "Rapid",
     "2": "Blitz"
   },
-  "gender_enum": {
-    "0": {
-      "adult": "Players",
-      "junior": "Juniors"
-    },
-    "1": {
-      "adult": "Women",
-      "junior": "Girls"
-    }
-  },
-  "gender_enum2": {
-    "0": {
-      "adult": "players",
-      "junior": "junior players"
-    },
-    "1": {
-      "adult": "women",
-      "junior": "girls"
-    }
-  },
   "gender_enum_short": {
     "0": "Open",
     "1": "Women"
+  },
+  "gender_category": {
+    "0": {
+      "0": "",
+      "1": "Under 20",
+      "2": "Under 18",
+      "3": "Under 16",
+      "4": "Under 14",
+      "5": "Under 12",
+      "6": "Under 10",
+      "7": "Under 8"
+    },
+    "1": {
+      "0": "Women",
+      "1": "Girls Under 20",
+      "2": "Girls Under 18",
+      "3": "Girls Under 16",
+      "4": "Girls Under 14",
+      "5": "Girls Under 12",
+      "6": "Girls Under 10",
+      "7": "Girls Under 8"
+    }
+  },
+  "gender_category_full": {
+    "0": {
+      "0": "players",
+      "1": "juniors under 20",
+      "2": "juniors under 18",
+      "3": "juniors under 16",
+      "4": "juniors under 14",
+      "5": "juniors under 12",
+      "6": "juniors under 10",
+      "7": "juniors under 8"
+    },
+    "1": {
+      "0": "women",
+      "1": "girls under 20",
+      "2": "girls under 18",
+      "3": "girls under 16",
+      "4": "girls under 14",
+      "5": "girls under 12",
+      "6": "girls Under 10",
+      "7": "girls under 8"
+    }
   },
   "federation_enum": {
     "1": "Kyiv",
