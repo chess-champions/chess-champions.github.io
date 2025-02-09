@@ -644,7 +644,6 @@
 /players/?id=-2024836253
 /players/?id=-2037228010
 /players/?id=-2048758069
-/players/?id=-2056190936
 /players/?id=-2129992317
 /players/?id=-230353415
 /players/?id=-258469031
@@ -1036,6 +1035,7 @@
 /players/?id=34139931
 /players/?id=34140026
 /players/?id=34140107
+/players/?id=34140190
 /players/?id=34141782
 /players/?id=34144293
 /players/?id=34144684
