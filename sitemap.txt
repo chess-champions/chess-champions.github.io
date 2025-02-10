@@ -639,7 +639,6 @@
 /players/?id=-1890990690
 /players/?id=-1903837351
 /players/?id=-1926573765
-/players/?id=-192856927
 /players/?id=-2006679903
 /players/?id=-2024836253
 /players/?id=-2037228010
