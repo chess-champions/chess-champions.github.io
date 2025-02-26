@@ -181,5 +181,6 @@
   "year_description": "Table of Gold, Silver, and Bronze Medals Won by Regional Ukrainian Chess Federations in {{year}}",
   "federation_description": "Table of Gold, Silver, and Bronze Medals Won by the {{federation}} Chess Federation in the Last 10 Years",
   "player_description": "Chess Player Profile – Detailed Information & Top Tournament Results",
-  "back": "Back"
+  "back": "Back",
+  "results": "Results"
 }
