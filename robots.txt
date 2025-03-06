@@ -1,3 +1,4 @@
+Sitemap: https://chess-champions.github.io/sitemap-index.xml
+
 User-agent: *
-Allow: /
-Sitemap: https://chess-champions.github.io/sitemap-index.xml.gz
+Disallow:
