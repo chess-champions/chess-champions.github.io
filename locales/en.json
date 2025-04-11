@@ -194,5 +194,8 @@
   "goHome": "Go to Homepage",
   "year": "Year",
   "rankAfterRound": "Rank after Round {{round}}",
-  "missingResults": "{{count}} results missing"
+  "missingResults": "{{count}} results missing",
+  "player": "Player",
+  "club_description": "Chess Club Profile – Detailed Information & Top Tournament Results",
+  "coach_description": "Chess Coach Profile – Detailed Information & Top Tournament Results"
 }
