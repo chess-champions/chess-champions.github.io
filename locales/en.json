@@ -37,6 +37,11 @@
     "1": "Rapid",
     "2": "Blitz"
   },
+  "game_enum_short_short": {
+    "0": "Class.",
+    "1": "Rapid",
+    "2": "Blitz"
+  },
   "gender_enum_short": {
     "0": "Open",
     "1": "Women"
