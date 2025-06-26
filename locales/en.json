@@ -176,10 +176,14 @@
   },
   "fide": "FIDE",
   "federation": "Federation",
+  "federation_one": "Federation",
+  "federation_other": "Federations",
   "federation_short": "Fed",
   "year_of_birth": "Year of Birth",
+  "club": "Club",
   "club_one": "Club",
   "club_other": "Clubs",
+  "coach": "Coach",
   "coach_one": "Coach",
   "coach_other": "Coaches",
   "gold": "Gold",
@@ -202,6 +206,14 @@
   "rankAfterRound": "Rank after Round {{round}}",
   "missingResults": "{{count}} results missing",
   "player": "Player",
+  "player_one": "Player",
+  "player_other": "Players",
   "club_description": "Chess Club Profile – Detailed Information & Top Tournament Results",
-  "coach_description": "Chess Coach Profile – Detailed Information & Top Tournament Results"
+  "coach_description": "Chess Coach Profile – Detailed Information & Top Tournament Results",
+  "stats_group_enum": {
+    "0": "Federations",
+    "1": "Clubs",
+    "2": "Coaches",
+    "3": "Players"
+  }
 }
