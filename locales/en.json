@@ -209,6 +209,7 @@
   "player_one": "Player",
   "player_other": "Players",
   "club_description": "Chess Club Profile – Detailed Information & Top Tournament Results",
+  "coach_title": "Coach {{name}}",
   "coach_description": "Chess Coach Profile – Detailed Information & Top Tournament Results",
   "stats_group_enum": {
     "0": "Federations",
