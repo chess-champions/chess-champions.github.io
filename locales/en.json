@@ -225,5 +225,6 @@
   "head": "Head",
   "deputy_head": "Deputy Head",
   "executive_director": "Executive Director",
-  "secretary": "Secretary"
+  "secretary": "Secretary",
+  "noData": "No data available"
 }
