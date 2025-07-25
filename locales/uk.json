@@ -234,5 +234,6 @@
   "deputy_head": "Заступник голови",
   "executive_director": "Виконавчий директор",
   "secretary": "Секретар",
-  "noData": "Дані відсутні"
+  "noData": "Дані відсутні",
+  "notSpecified": "Не вказано"
 }
