@@ -228,5 +228,5 @@
   "secretary": "Secretary",
   "noData": "No data available",
   "notSpecified": "Not specified",
-  "stats": "Stats"
+  "stats": "Stats {{year}}"
 }
