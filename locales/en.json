@@ -226,6 +226,10 @@
   "deputy_head": "Deputy Head",
   "executive_director": "Executive Director",
   "secretary": "Secretary",
+  "site": "Website",
+  "facebook": "Facebook",
+  "youtube": "YouTube",
+  "telegram": "Telegram",
   "noData": "No data available",
   "notSpecified": "Not specified",
   "stats": "Stats {{year}}"

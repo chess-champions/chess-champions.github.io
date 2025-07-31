@@ -234,6 +234,10 @@
   "deputy_head": "Заступник голови",
   "executive_director": "Виконавчий директор",
   "secretary": "Секретар",
+  "site": "Вебсайт",
+  "facebook": "Facebook",
+  "youtube": "YouTube",
+  "telegram": "Telegram",
   "noData": "Дані відсутні",
   "notSpecified": "Не вказано",
   "stats": "Статистика {{year}}"
