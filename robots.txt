@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chess-champions.github.io/sitemap.xml
+Sitemap: https://chess-champions.in.ua/sitemap.xml
