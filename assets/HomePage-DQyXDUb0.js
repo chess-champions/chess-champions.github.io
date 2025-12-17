@@ -1,1 +1,0 @@
-import{c as d,H as f}from"./home-Duchcoya.js";import"./about-hFlrwFyx.js";import"./clubs-DEDRrE5F.js";import"./coaches-D1dvXPxi.js";import"./feds-DBE2XRM4.js";import"./players-B3jke6mF.js";import"./stats-DYjxN_t-.js";import"./results-BFf4G6iP.js";export{d as clientLoader,f as default};
