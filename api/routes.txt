@@ -927,6 +927,7 @@
 /players/14101602/
 /players/14102013/
 /players/14102250/
+/players/14102340/
 /players/14102560/
 /players/14102951/
 /players/14103052/
