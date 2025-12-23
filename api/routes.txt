@@ -731,6 +731,7 @@
 /coaches/-2044225721/
 /coaches/-2123896950/
 /coaches/-215704146/
+/coaches/-218538553/
 /coaches/-226432678/
 /coaches/-249607852/
 /coaches/-366295874/
@@ -982,6 +983,7 @@
 /players/14117258/
 /players/14117479/
 /players/14117665/
+/players/14117908/
 /players/14118483/
 /players/14118688/
 /players/14118823/
