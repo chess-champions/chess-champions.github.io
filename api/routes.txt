@@ -967,6 +967,7 @@
 /players/14113414/
 /players/14114038/
 /players/14114224/
+/players/14114500/
 /players/14114550/
 /players/14115220/
 /players/14115298/
