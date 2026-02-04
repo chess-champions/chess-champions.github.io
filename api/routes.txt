@@ -1281,6 +1281,7 @@
 /players/34138323/
 /players/34139664/
 /players/34139885/
+/players/34139923/
 /players/34139931/
 /players/34140026/
 /players/34140107/
@@ -1423,7 +1424,6 @@
 /players/529014778/
 /players/529017289/
 /players/529018250/
-/players/529026440/
 /players/91138744/
 /stats/
 /stats/2014/
