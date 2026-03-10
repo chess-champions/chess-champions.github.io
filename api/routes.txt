@@ -563,7 +563,6 @@
 /2025/U20/Classical/Women/
 /2025/U20/Rapid/Open/
 /2025/U20/Rapid/Women/
-/2026/All/Blitz/Women/
 /2026/U14/Blitz/Open/
 /2026/U14/Blitz/Women/
 /2026/U14/Classical/Open/
@@ -951,7 +950,6 @@
 /players/14119846/
 /players/14120828/
 /players/14120836/
-/players/14122103/
 /players/14122260/
 /players/14122286/
 /players/14122480/
@@ -1044,7 +1042,6 @@
 /players/14143488/
 /players/14144352/
 /players/14144948/
-/players/14145154/
 /players/14145898/
 /players/14145928/
 /players/14146673/
@@ -1378,7 +1375,6 @@
 /players/34174699/
 /players/34174818/
 /players/34175776/
-/players/34175806/
 /players/34175865/
 /players/34176209/
 /players/34176705/
