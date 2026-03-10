@@ -875,7 +875,6 @@
 /feds/ZAP/
 /feds/ZHY/
 /players/-1014363150/
-/players/-1856480153/
 /players/-771624924/
 /players/14100010/
 /players/14100150/
@@ -1364,6 +1363,7 @@
 /players/34166300/
 /players/34166319/
 /players/34166459/
+/players/34166700/
 /players/34169342/
 /players/34170901/
 /players/34171592/
@@ -1385,11 +1385,13 @@
 /players/34176721/
 /players/34176730/
 /players/34177035/
+/players/34177159/
 /players/34177701/
 /players/34177728/
 /players/34177736/
 /players/34177990/
 /players/34178449/
+/players/34179089/
 /players/34179119/
 /players/34180079/
 /players/34180311/
@@ -1413,14 +1415,12 @@
 /players/34185828/
 /players/34185836/
 /players/34187782/
-/players/34188398/
 /players/34189270/
 /players/34190422/
 /players/34190732/
 /players/34191070/
 /players/34191283/
 /players/34191305/
-/players/34192700/
 /players/34193588/
 /players/34196099/
 /players/34197710/
