@@ -951,6 +951,7 @@
 /players/14119846/
 /players/14120828/
 /players/14120836/
+/players/14122103/
 /players/14122260/
 /players/14122286/
 /players/14122480/
@@ -1043,6 +1044,7 @@
 /players/14143488/
 /players/14144352/
 /players/14144948/
+/players/14145154/
 /players/14145898/
 /players/14145928/
 /players/14146673/
@@ -1361,7 +1363,6 @@
 /players/34166300/
 /players/34166319/
 /players/34166459/
-/players/34166700/
 /players/34169342/
 /players/34170901/
 /players/34171592/
@@ -1376,6 +1377,7 @@
 /players/34174699/
 /players/34174818/
 /players/34175776/
+/players/34175806/
 /players/34175865/
 /players/34176209/
 /players/34176705/
@@ -1399,6 +1401,7 @@
 /players/34182624/
 /players/34182799/
 /players/34183108/
+/players/34183523/
 /players/34183647/
 /players/34183973/
 /players/34184040/
@@ -1413,6 +1416,7 @@
 /players/34185836/
 /players/34187782/
 /players/34189270/
+/players/34190074/
 /players/34190422/
 /players/34190732/
 /players/34191070/
