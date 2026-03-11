@@ -1416,7 +1416,6 @@
 /players/34185836/
 /players/34187782/
 /players/34189270/
-/players/34190074/
 /players/34190422/
 /players/34190732/
 /players/34191070/
