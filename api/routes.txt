@@ -577,7 +577,6 @@
 /2026/U16/Rapid/Women/
 /2026/U20/Classical/Open/
 /2026/U20/Classical/Women/
-/clubs/-245631163/
 /clubs/1000796763/
 /clubs/1004523081/
 /clubs/1004840447/
