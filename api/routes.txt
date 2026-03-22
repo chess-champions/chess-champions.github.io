@@ -1285,7 +1285,6 @@
 /players/34129510/
 /players/34131086/
 /players/34131752/
-/players/34132155/
 /players/34132422/
 /players/34132902/
 /players/34133321/
