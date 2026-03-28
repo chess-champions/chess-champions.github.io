@@ -1,1 +1,0 @@
-import{c as i,C as m}from"./coaches-BDtCmCcQ.js";import"./about-hFlrwFyx.js";import"./clubs-CLJOfvQK.js";import"./results-q4SxJpAE.js";export{i as clientLoader,m as default};
