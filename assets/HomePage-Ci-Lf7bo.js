@@ -1,0 +1,1 @@
+import{c as d,H as f}from"./home-CF_Zi8B1.js";import"./about-hFlrwFyx.js";import"./clubs-CLJOfvQK.js";import"./coaches-BDtCmCcQ.js";import"./feds-C4Ptql1V.js";import"./players-Dlp4Ecx9.js";import"./stats-CJFH5b4h.js";import"./results-q4SxJpAE.js";export{d as clientLoader,f as default};
