@@ -659,7 +659,6 @@
 /coaches/-1030514979/
 /coaches/-1054714848/
 /coaches/-1067575317/
-/coaches/-1113360888/
 /coaches/-1114246575/
 /coaches/-1162863169/
 /coaches/-1188968132/
@@ -695,7 +694,6 @@
 /coaches/-226432678/
 /coaches/-249607852/
 /coaches/-366295874/
-/coaches/-37148615/
 /coaches/-406644032/
 /coaches/-431775497/
 /coaches/-443175260/
