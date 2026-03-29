@@ -575,6 +575,8 @@
 /2026/U16/Classical/Women/
 /2026/U16/Rapid/Open/
 /2026/U16/Rapid/Women/
+/2026/U20/Blitz/Open/
+/2026/U20/Blitz/Women/
 /2026/U20/Classical/Open/
 /2026/U20/Classical/Women/
 /2026/U20/Rapid/Open/
