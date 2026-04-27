@@ -571,6 +571,7 @@
 /2026/U08/Rapid/Women/
 /2026/U10/Blitz/Open/
 /2026/U10/Blitz/Women/
+/2026/U10/Classical/Women/
 /2026/U10/Rapid/Open/
 /2026/U10/Rapid/Women/
 /2026/U12/Blitz/Open/
