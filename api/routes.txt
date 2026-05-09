@@ -862,6 +862,7 @@
 /coaches/14176203/
 /coaches/14182602/
 /coaches/14183765/
+/coaches/14189909/
 /coaches/14194287/
 /coaches/14194570/
 /coaches/34107940/
@@ -908,9 +909,7 @@
 /feds/ZAP/
 /feds/ZHY/
 /players/-1014363150/
-/players/-1856480153/
 /players/-771624924/
-/players/-952778083/
 /players/14100010/
 /players/14100150/
 /players/14100371/
@@ -1480,6 +1479,7 @@
 /players/529014778/
 /players/529017289/
 /players/529018250/
+/players/529025788/
 /players/529026440/
 /players/91138744/
 /stats/
