@@ -1334,6 +1334,7 @@
 /players/34140107/
 /players/34140190/
 /players/34141782/
+/players/34143971/
 /players/34144242/
 /players/34144293/
 /players/34144684/
@@ -1359,6 +1360,7 @@
 /players/34157514/
 /players/34158090/
 /players/34158693/
+/players/34159118/
 /players/34159231/
 /players/34159304/
 /players/34159320/
@@ -1410,6 +1412,7 @@
 /players/34174583/
 /players/34174699/
 /players/34174818/
+/players/34175741/
 /players/34175776/
 /players/34175865/
 /players/34176209/
