@@ -912,8 +912,7 @@
 /players/-1014363150/
 /players/-1692172250/
 /players/-1906211180/
-/players/-1955152856/
-/players/-67903629/
+/players/-768235401/
 /players/-771624924/
 /players/14100010/
 /players/14100150/
@@ -1488,6 +1487,7 @@
 /players/529014778/
 /players/529017289/
 /players/529018250/
+/players/529023548/
 /players/529025788/
 /players/529026440/
 /players/5981/
