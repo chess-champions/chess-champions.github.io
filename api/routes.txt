@@ -1484,6 +1484,7 @@
 /players/529006597/
 /players/529006759/
 /players/529006767/
+/players/529008093/
 /players/529008573/
 /players/529008930/
 /players/529009561/
