@@ -1483,7 +1483,6 @@
 /players/529005280/
 /players/529006392/
 /players/529006597/
-/players/529006732/
 /players/529006759/
 /players/529006767/
 /players/529008573/
