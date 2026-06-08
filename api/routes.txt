@@ -1500,7 +1500,6 @@
 /players/529025788/
 /players/529026440/
 /players/529028442/
-/players/529030196/
 /players/529030269/
 /players/529036151/
 /players/91138744/
