@@ -607,6 +607,7 @@
 /2026/U20/Classical/Women/
 /2026/U20/Rapid/Open/
 /2026/U20/Rapid/Women/
+/clubs/-190720326/
 /clubs/1000796763/
 /clubs/1004523081/
 /clubs/1004840447/
@@ -619,7 +620,6 @@
 /clubs/1097286831/
 /clubs/1098924061/
 /clubs/1114019065/
-/clubs/1114593465/
 /clubs/1124578451/
 /clubs/1127157553/
 /clubs/1138091093/
@@ -692,6 +692,7 @@
 /coaches/-1114246575/
 /coaches/-1162863169/
 /coaches/-1188968132/
+/coaches/-1249583878/
 /coaches/-1373325724/
 /coaches/-1451266957/
 /coaches/-1457226171/
@@ -704,6 +705,7 @@
 /coaches/-162263439/
 /coaches/-1633717045/
 /coaches/-1633817000/
+/coaches/-1639554452/
 /coaches/-1684611175/
 /coaches/-1713043489/
 /coaches/-1791037816/
@@ -734,6 +736,7 @@
 /coaches/-527112708/
 /coaches/-619403908/
 /coaches/-62493978/
+/coaches/-633287458/
 /coaches/-798567033/
 /coaches/-851432923/
 /coaches/-869540357/
@@ -919,8 +922,6 @@
 /feds/ZHY/
 /players/-1014363150/
 /players/-1491082674/
-/players/-1873859495/
-/players/-1900359929/
 /players/-771624924/
 /players/14100010/
 /players/14100150/
@@ -1477,6 +1478,7 @@
 /players/34197818/
 /players/34198334/
 /players/34198920/
+/players/34199020/
 /players/34336060/
 /players/4152417/
 /players/41850351/
@@ -1490,6 +1492,7 @@
 /players/529006597/
 /players/529006759/
 /players/529006767/
+/players/529006953/
 /players/529008573/
 /players/529008930/
 /players/529009561/
