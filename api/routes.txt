@@ -607,6 +607,7 @@
 /2026/U20/Classical/Women/
 /2026/U20/Rapid/Open/
 /2026/U20/Rapid/Women/
+/clubs/-1721105753/
 /clubs/1000796763/
 /clubs/1004523081/
 /clubs/1004840447/
@@ -709,6 +710,7 @@
 /coaches/-1713043489/
 /coaches/-1791037816/
 /coaches/-1805839228/
+/coaches/-1845493453/
 /coaches/-1893516177/
 /coaches/-1899390356/
 /coaches/-1899512280/
@@ -732,6 +734,7 @@
 /coaches/-477558709/
 /coaches/-496799432/
 /coaches/-505620347/
+/coaches/-519312492/
 /coaches/-527112708/
 /coaches/-619403908/
 /coaches/-62493978/
@@ -921,10 +924,7 @@
 /feds/ZHY/
 /players/-1014363150/
 /players/-1491082674/
-/players/-1754099834/
-/players/-1895768917/
 /players/-771624924/
-/players/-952778083/
 /players/14100010/
 /players/14100150/
 /players/14100371/
