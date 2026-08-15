@@ -923,8 +923,16 @@
 /feds/ZAP/
 /feds/ZHY/
 /players/-1014363150/
+/players/-1059555016/
+/players/-1332142985/
+/players/-135242511/
 /players/-1491082674/
+/players/-1496073245/
+/players/-1612729769/
+/players/-1702783239/
+/players/-1951312355/
 /players/-771624924/
+/players/-927888900/
 /players/14100010/
 /players/14100150/
 /players/14100371/
