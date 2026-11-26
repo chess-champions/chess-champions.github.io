@@ -563,6 +563,8 @@
 /2025/U20/Classical/Women/
 /2025/U20/Rapid/Open/
 /2025/U20/Rapid/Women/
+/2026/All/Blitz/Open/
+/2026/All/Blitz/Women/
 /2026/All/Classical/Open/
 /2026/All/Classical/Women/
 /2026/All/Rapid/Open/
